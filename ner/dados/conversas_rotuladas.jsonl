@@ -1,0 +1,60 @@
+{"texto": "Bom dia, aqui é a Mariana Teixeira, meu CPF é 123.456.789-09 e não consigo acessar o aplicativo.", "entidades": [{"inicio": 18, "fim": 34, "tipo": "PER"}, {"inicio": 46, "fim": 60, "tipo": "CPF"}]}
+{"texto": "Falei ontem com o Rafael da agência de Campinas e ele prometeu retornar.", "entidades": [{"inicio": 18, "fim": 24, "tipo": "PER"}, {"inicio": 39, "fim": 47, "tipo": "LOC"}]}
+{"texto": "Meu nome é João Pedro Almeida e moro em Belo Horizonte, preciso trocar o endereço do cartão.", "entidades": [{"inicio": 11, "fim": 29, "tipo": "PER"}, {"inicio": 40, "fim": 54, "tipo": "LOC"}]}
+{"texto": "Pode ligar para (11) 98765-4321 depois das 18h, por favor.", "entidades": [{"inicio": 16, "fim": 31, "tipo": "TEL"}]}
+{"texto": "O boleto da Claro veio em dobro e foi debitado na minha conta.", "entidades": [{"inicio": 12, "fim": 17, "tipo": "ORG"}]}
+{"texto": "A Dona Lúcia é minha mãe e quer incluir meu nome como dependente.", "entidades": [{"inicio": 2, "fim": 12, "tipo": "PER"}]}
+{"texto": "Mandem o comprovante para carla.mendes@exemplo.com.br, obrigada.", "entidades": [{"inicio": 26, "fim": 53, "tipo": "EMAIL"}]}
+{"texto": "Sou o Carlos Eduardo Nogueira, gerente da Padaria Pão Quente, e quero abrir uma conta PJ.", "entidades": [{"inicio": 6, "fim": 29, "tipo": "PER"}, {"inicio": 42, "fim": 60, "tipo": "ORG"}]}
+{"texto": "Fiz um Pix para a Fernanda Rocha por engano, como faço para devolver?", "entidades": [{"inicio": 18, "fim": 32, "tipo": "PER"}]}
+{"texto": "O cartão final 4532 7812 3344 9910 foi clonado em Salvador.", "entidades": [{"inicio": 15, "fim": 34, "tipo": "CARTAO"}, {"inicio": 50, "fim": 58, "tipo": "LOC"}]}
+{"texto": "oi aqui é a juliana tô sem acesso desde ontem", "entidades": [{"inicio": 12, "fim": 19, "tipo": "PER"}]}
+{"texto": "meu nome é pedro henrique e queria negociar a dívida", "entidades": [{"inicio": 11, "fim": 25, "tipo": "PER"}]}
+{"texto": "fala com o seu antonio que ele é o titular da conta", "entidades": [{"inicio": 11, "fim": 22, "tipo": "PER"}]}
+{"texto": "Minha esposa, Beatriz Campos, perdeu o cartão no aeroporto de Guarulhos.", "entidades": [{"inicio": 14, "fim": 28, "tipo": "PER"}, {"inicio": 62, "fim": 71, "tipo": "LOC"}]}
+{"texto": "A compra na Magazine Luiza não foi reconhecida por mim.", "entidades": [{"inicio": 12, "fim": 26, "tipo": "ORG"}]}
+{"texto": "Estou em Lisboa e meu cartão foi bloqueado no exterior.", "entidades": [{"inicio": 9, "fim": 15, "tipo": "LOC"}]}
+{"texto": "O atendente Thiago foi muito educado, parabéns a ele.", "entidades": [{"inicio": 12, "fim": 18, "tipo": "PER"}]}
+{"texto": "Quero cancelar o seguro. Meu telefone é 21 99123-4567 e meu e-mail é r.lima@exemplo.net.", "entidades": [{"inicio": 40, "fim": 53, "tipo": "TEL"}, {"inicio": 69, "fim": 87, "tipo": "EMAIL"}]}
+{"texto": "Recebi uma ligação de alguém dizendo ser da Receita Federal pedindo meus dados.", "entidades": [{"inicio": 44, "fim": 59, "tipo": "ORG"}]}
+{"texto": "O CPF do meu filho Gustavo é 987.654.321-00, quero abrir uma conta para ele.", "entidades": [{"inicio": 19, "fim": 26, "tipo": "PER"}, {"inicio": 29, "fim": 43, "tipo": "CPF"}]}
+{"texto": "Fui atendido pela Aline Barbosa na agência da Avenida Paulista.", "entidades": [{"inicio": 18, "fim": 31, "tipo": "PER"}, {"inicio": 46, "fim": 62, "tipo": "LOC"}]}
+{"texto": "A transferência para a Unimed não caiu até agora.", "entidades": [{"inicio": 23, "fim": 29, "tipo": "ORG"}]}
+{"texto": "Sou aposentada, moro em Recife e meu benefício do INSS não entrou.", "entidades": [{"inicio": 24, "fim": 30, "tipo": "LOC"}, {"inicio": 50, "fim": 54, "tipo": "ORG"}]}
+{"texto": "Preciso falar com a Patrícia Gomes Ferraz, ela cuida da minha carteira.", "entidades": [{"inicio": 20, "fim": 41, "tipo": "PER"}]}
+{"texto": "O débito do Spotify apareceu duas vezes na fatura.", "entidades": [{"inicio": 12, "fim": 19, "tipo": "ORG"}]}
+{"texto": "Meu marido Roberto faleceu e preciso encerrar a conta dele.", "entidades": [{"inicio": 11, "fim": 18, "tipo": "PER"}]}
+{"texto": "Boa tarde, Vanessa falando, o aplicativo trava quando abro o extrato.", "entidades": [{"inicio": 11, "fim": 18, "tipo": "PER"}]}
+{"texto": "Quero o estorno da compra feita em Curitiba, não estive lá.", "entidades": [{"inicio": 35, "fim": 43, "tipo": "LOC"}]}
+{"texto": "O entregador da Correios deixou o cartão com o vizinho, o Sérgio.", "entidades": [{"inicio": 16, "fim": 24, "tipo": "ORG"}, {"inicio": 58, "fim": 64, "tipo": "PER"}]}
+{"texto": "Meu CPF é 11122233344, por que meu limite caiu?", "entidades": [{"inicio": 10, "fim": 21, "tipo": "CPF"}]}
+{"texto": "Ligue no (61) 3322-4455, é o telefone do trabalho, procure por Helena.", "entidades": [{"inicio": 9, "fim": 23, "tipo": "TEL"}, {"inicio": 63, "fim": 69, "tipo": "PER"}]}
+{"texto": "A Amanda Ribeiro de Souza é minha procuradora e vai retirar o documento.", "entidades": [{"inicio": 2, "fim": 25, "tipo": "PER"}]}
+{"texto": "Gostaria de portar meu salário da Prefeitura de Niterói para cá.", "entidades": [{"inicio": 34, "fim": 55, "tipo": "ORG"}]}
+{"texto": "Já mandei e-mail para atendimento.joana@exemplo.org e ninguém respondeu.", "entidades": [{"inicio": 22, "fim": 51, "tipo": "EMAIL"}]}
+{"texto": "A loja Casas Bahia diz que o pagamento não chegou.", "entidades": [{"inicio": 7, "fim": 18, "tipo": "ORG"}]}
+{"texto": "Eu me chamo Otávio Martins e quero aumentar o limite do cartão.", "entidades": [{"inicio": 12, "fim": 26, "tipo": "PER"}]}
+{"texto": "quem me atendeu foi o lucas da central e ele desligou na minha cara", "entidades": [{"inicio": 22, "fim": 27, "tipo": "PER"}]}
+{"texto": "Estou viajando para Manaus na semana que vem, avisem o cartão.", "entidades": [{"inicio": 20, "fim": 26, "tipo": "LOC"}]}
+{"texto": "Tive um problema com a Azul e o reembolso caiu em outra conta.", "entidades": [{"inicio": 23, "fim": 27, "tipo": "ORG"}]}
+{"texto": "O síndico, Marcelo Prado, precisa assinar pelo condomínio em Goiânia.", "entidades": [{"inicio": 11, "fim": 24, "tipo": "PER"}, {"inicio": 61, "fim": 68, "tipo": "LOC"}]}
+{"texto": "O filho da Regina usou o meu cartão sem autorização.", "entidades": [{"inicio": 11, "fim": 17, "tipo": "PER"}]}
+{"texto": "Meu endereço novo é em Florianópolis, no bairro Trindade.", "entidades": [{"inicio": 23, "fim": 36, "tipo": "LOC"}, {"inicio": 48, "fim": 56, "tipo": "LOC"}]}
+{"texto": "A contadora Silvia Antunes vai enviar os documentos da Construtora Horizonte.", "entidades": [{"inicio": 12, "fim": 26, "tipo": "PER"}, {"inicio": 55, "fim": 76, "tipo": "ORG"}]}
+{"texto": "Não reconheço essa cobrança da Netflix de março.", "entidades": [{"inicio": 31, "fim": 38, "tipo": "ORG"}]}
+{"texto": "Sou da Clínica Santa Clara e o Pix dos pacientes não está entrando.", "entidades": [{"inicio": 7, "fim": 26, "tipo": "ORG"}]}
+{"texto": "Meu cartão 5502-0941-7766-1203 não passa em nenhuma maquininha.", "entidades": [{"inicio": 11, "fim": 30, "tipo": "CARTAO"}]}
+{"texto": "Pode falar com meu irmão, André, ele tem autorização.", "entidades": [{"inicio": 26, "fim": 31, "tipo": "PER"}]}
+{"texto": "O gerente Paulo Sérgio Duarte me ofereceu um consórcio que eu não pedi.", "entidades": [{"inicio": 10, "fim": 29, "tipo": "PER"}]}
+{"texto": "Moro em Fortaleza e a agência mais próxima fechou.", "entidades": [{"inicio": 8, "fim": 17, "tipo": "LOC"}]}
+{"texto": "Oi, é a Camila de novo, o caso continua sem solução.", "entidades": [{"inicio": 8, "fim": 14, "tipo": "PER"}]}
+{"texto": "Como faço para trocar a senha do aplicativo?", "entidades": []}
+{"texto": "A fatura deste mês veio com juros que não entendi.", "entidades": []}
+{"texto": "Quero saber o rendimento da minha poupança.", "entidades": []}
+{"texto": "Por que o Pix demorou duas horas para cair?", "entidades": []}
+{"texto": "O limite do meu cartão pode aumentar?", "entidades": []}
+{"texto": "Preciso da segunda via do boleto, por favor.", "entidades": []}
+{"texto": "O aplicativo não abre depois da atualização.", "entidades": []}
+{"texto": "Gostaria de cancelar o débito automático.", "entidades": []}
+{"texto": "Ótimo atendimento, resolveram tudo rápido.", "entidades": []}
+{"texto": "Como contrato o seguro residencial?", "entidades": []}
